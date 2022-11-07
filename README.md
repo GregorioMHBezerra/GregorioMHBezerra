@@ -1,13 +1,3 @@
-<a href="https://gregoriomhbezerra.github.io/" target="_blank">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
-</a> 
-<a href="https://www.linkedin.com/in/gregoriobezerra/" target="_blank">
-  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
-</a>
-
-<br />
-<br />
-
 ## Sobre mim
 
 Olá, me chamo **Gregório Bezerra**, sou de Recife, Brasil e formado em Arqueologia pela UFPE. Atualmente em transição de carreira, tenho estudado análise e desenvolvimento de sistemas pela Estácio e Desenvolvimento WEB pela Trybe.
@@ -17,9 +7,6 @@ Olá, me chamo **Gregório Bezerra**, sou de Recife, Brasil e formado em Arqueol
 - 👨🏽‍💻 Gosto de estudar e aprender, qualquer coisa, principalmente os mecanismos e pormenores por trás das coisas;
 - 🌱 Atualmente estou aprendendo, além de programação, como cuidar de um pé de alecrim aqui no clima de Recife; 
 - 🤔 Meus hobbies costumavam ser jogos online;
-
-<br />
-<br />
 
 ## Linguagens e ferramentas:  
 
@@ -43,6 +30,14 @@ Olá, me chamo **Gregório Bezerra**, sou de Recife, Brasil e formado em Arqueol
 <!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="40" height="40" /> -->
 </p>
 
+## Minhas redes
+
+<a href="https://gregoriomhbezerra.github.io/" target="_blank">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
+</a> 
+<a href="https://www.linkedin.com/in/gregoriobezerra/" target="_blank">
+  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+</a>
 
 ## GitHub Stats
 <table>
