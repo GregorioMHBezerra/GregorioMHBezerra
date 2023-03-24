@@ -1,6 +1,6 @@
 ## Sobre mim
 
-Olá, me chamo **Gregório Bezerra**, sou de Recife, Brasil e formado em Arqueologia pela UFPE. Atualmente em transição de carreira, tenho estudado análise e desenvolvimento de sistemas pela Estácio e Desenvolvimento WEB pela Trybe.
+Olá, me chamo **Gregório Bezerra**, sou de Recife, Brasil e formado em Arqueologia pela UFPE. Atualmente em transição de carreira, tenho estudado programação na Trybe.
 
 ## Meus interesses pessoais:
 
