@@ -50,6 +50,8 @@ Olá, me chamo **Gregório Bezerra**, sou de Recife, Brasil e formado em Arqueol
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 
+Ou mande um e-mail para gregoriodmhbezerra@gmal.com
+
 ## GitHub Stats
 <table>
 <tr><td>
