@@ -1,6 +1,12 @@
 ## Sobre mim
 
-Olá, me chamo **Gregório Bezerra**, sou de Recife, Brasil e formado em Arqueologia pela UFPE. Atualmente em transição de carreira, tenho estudado programação na Trybe.
+Olá, me chamo **Gregório Bezerra**, sou de Recife, Brasil e formado em Arqueologia pela UFPE. Atualmente em transição de carreira para a área de programação.
+
+## Github.io
+
+<a href="https://gregoriomhbezerra.github.io/" target="_blank">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
+</a> 
 
 ## Meus interesses pessoais:
 
@@ -43,9 +49,6 @@ Olá, me chamo **Gregório Bezerra**, sou de Recife, Brasil e formado em Arqueol
 
 ## Minhas redes
 
-<a href="https://gregoriomhbezerra.github.io/" target="_blank">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
-</a> 
 <a href="https://www.linkedin.com/in/gregoriobezerra/" target="_blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
