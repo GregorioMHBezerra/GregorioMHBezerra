@@ -1,12 +1,12 @@
 ## Sobre mim
 
-Olá, me chamo **Gregório Bezerra**, sou de Recife, Brasil e formado em Arqueologia pela UFPE. Atualmente em transição de carreira para a área de programação.
+Olá, me chamo **Gregório Bezerra**, sou de Recife, Brasil e formado em Arqueologia pela UFPE e Desenvolvimento Web pela Trybe.
 
 ##  <a href="https://gregoriomhbezerra.github.io/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px"></a> Clique no Octocat para conhecer meus projetos
 
 ## Meus interesses pessoais:
 
-- 👨🏽‍💻 Gosto de estudar e aprender, qualquer coisa, principalmente os mecanismos e pormenores por trás das coisas;
+- 👨🏽‍💻 Gosto de estudar e aprender, principalmente os mecanismos e pormenores por trás das coisas;
 - 🌱 Atualmente estou aprendendo, além de programação, como cuidar de um pé de alecrim aqui no clima de Recife; 
 - 🤔 Meus hobbies costumavam ser jogos online;
 
